@@ -16,3 +16,6 @@ Compare today and tomorrows Agile prices to Go
 * Conditional formatting (red green)
 * Current time slight formatting (light purple)
 
+# Screenshot
+
+![image](https://github.com/user-attachments/assets/ccdb111a-857c-40e9-b082-6ee4869c210a)
