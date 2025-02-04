@@ -19,3 +19,9 @@ Compare today and tomorrows Agile prices to Go
 # Screenshot
 
 ![image](https://github.com/user-attachments/assets/ccdb111a-857c-40e9-b082-6ee4869c210a)
+
+# Credits 
+
+Largely built using Perplexity AI
+
+https://www.perplexity.ai/page/octopus-agile-pricing-script-cXqQj2q2SXuT2CRGb8fE.w
